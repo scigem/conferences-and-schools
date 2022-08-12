@@ -1,5 +1,6 @@
 # Conference and school list
 
+- Compiled by members of [SciGEM](www.scigem.com)
 - Add anything you hear of to the list below.
 - [Also see here for UTwente’s list](https://www2.msm.ctw.utwente.nl/msm_www/conferences/conferences.html)
 
