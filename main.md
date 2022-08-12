@@ -1,7 +1,7 @@
 # Conference and school list
 
 - Compiled by members of [SciGEM](www.scigem.com)
-- Add anything you hear of to the list below.
+- Add anything you hear of to the list below by making a [pull request](https://github.com/scigem/conferences-and-schools/compare).
 - [Also see here for UTwente’s list](https://www2.msm.ctw.utwente.nl/msm_www/conferences/conferences.html)
 
 # 2022
