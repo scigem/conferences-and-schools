@@ -2,7 +2,9 @@
 
 - Add anything you hear of to the list below.
 - [Also see here for UTwente’s list](https://www2.msm.ctw.utwente.nl/msm_www/conferences/conferences.html)
+
 # 2022
+
 | **Title**                                                                                                                                                                                 | **Location**          | **Date**                 | **Info**                                                                                                                                                       | **Attending**         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
 | [PCTS Workshop](https://pcts.princeton.edu/programs/current/physics-in-the-ground-beneath-our-feet-applications-of-statistical-and-nonlinear-physics-in-environmental-and-geoscience/145) | Online                | 5 - 7 January            | Physics in the Ground Beneath our Feet: Applications of statistical and nonlinear physics in environmental and geoscience                                      |                       |
@@ -46,14 +48,9 @@
 | [IWBDG2020](https://www.iwbdg2020.com.au/)                                                                                                                                                | Perth, Australia      | 28 Nov - 1 December      | 12th International Workshops on Bifurcation and Degradation in Geomaterials                                                                                    | Benjy                 |
 | [AGU Fall Meeting](https://www.agu.org/Events/Meetings/Fall-Meeting-2022)                                                                                                                 | Chicago, USA          | 12 - 16 December         | American Geophysical Union Fall Meeting                                                                                                                        |                       |
 
-Industry meetings
-
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 # 2023
+
 | **Title**                                                                          | **Location**          | **Date**                       | **Info**                                                                                                  | **Attending** |
 | ---------------------------------------------------------------------------------- | --------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------- | ------------- |
 | [Tec21 Winter School](https://www.tec21.fr/winter-school-2023/#2)                  | Grenoble, France      | 30 January - 3 February        | 6th Tec21 Winter school on Multi scale approaches and multiphysics couplings in fluid and solid mechanics |               |
@@ -71,6 +68,7 @@ Industry meetings
 | AGU Fall Meeting                                                                   | San Francisco, USA    | 11 - 15 December               | American Geophysical Union Fall Meeting                                                                   |               |
 
 # 2024
+
 | **Title**                                     | **Location**       | **Date**                       | **Info**                                    | **Attending** |
 | --------------------------------------------- | ------------------ | ------------------------------ | ------------------------------------------- | ------------- |
 | EGU General Assembly                          | Vienna, Austria    | 14 - 19 April                  | European Geosciences Union General Assembly |               |
@@ -79,7 +77,8 @@ Industry meetings
 | AGU Fall Meeting                              | San Francisco, USA | Mid December                   | American Geophysical Union Fall Meeting     |               |
 
 # Past years
-# 2021
+## 2021
+
 | **Title**                                                         | **Location**            | **Date**         | **Info**                                                         | **Attending** |
 | ----------------------------------------------------------------- | ----------------------- | ---------------- | ---------------------------------------------------------------- | ------------- |
 | PIG 2.0                                                           | Sydney, Australia       | ?                | Anyone volunteering to organise it?                              | All           |
@@ -89,9 +88,8 @@ Industry meetings
 | [NSCM-33](https://congress.cimne.com/NSCM-33/frontal/default.asp) | Online                  | 25 - 26 November | 33rd Nordic Seminar in Computational Mechanics                   | Nick          |
 | [AGU Fall Meeting](https://www.agu.org/Fall-Meeting)              | New Orleans, USA        | 13 - 17 December | American Geophysical Union Fall Meeting                          |               |
 
+## 2020
 
-
-# 2020
 | **Title**                                                                                                                                                                                                                                                                                    | **Location**                   | **Date**                 | **Info**                                                                                                                                       | **Attending** |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [Tec 21](https://www.tec21.fr/summer-school/)                                                                                                                                                                                                                                                | Grenoble, France               | 20 - 24 January          | Winter school on multi-scale approaches and multi-physical couplings in fluid and solid mechanics                                              |               |
@@ -122,9 +120,8 @@ Industry meetings
 | IWBDG 2020                                                                                                                                                                                                                                                                                   | Perth, Australia               | 30 November - 3 December | 12th International Workshop on Bifurcation and Degradation in Geomaterials                                                                     | Benjy, Itai   |
 | AGU Fall Meeting                                                                                                                                                                                                                                                                             | San Francisco, USA             | Early-mid December       | American Geophysical Union Fall Meeting                                                                                                        |               |
 
-
-
 ## 2019
+
 | **Title**                                                                                               | **Location**            | **Dates**                | **Info**                                                                                | **Attending**             |
 | ------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ | --------------------------------------------------------------------------------------- | ------------------------- |
 | [EMI](http://emi2019.caltech.edu/)                                                                      | Caltech, USA            | 18-21 June               | Engineering Mechanics Institute Conference                                              | Itai, Benjy               |
