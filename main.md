@@ -1,6 +1,6 @@
 # Conference and school list
 
-- Maintained by members of [SciGEM](www.scigem.com), primarily [Nick Collins-Craft](https://www.researchgate.net/profile/Nicholas-Collins-Craft).
+- Maintained primarily by [Nick Collins-Craft](https://www.researchgate.net/profile/Nicholas-Collins-Craft).
 - Add anything you hear of to the list below by making a [pull request](https://github.com/scigem/conferences-and-schools/compare).
 - [Also see here for UTwente’s list](https://www2.msm.ctw.utwente.nl/msm_www/conferences/conferences.html)
 
