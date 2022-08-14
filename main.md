@@ -1,7 +1,7 @@
 # Conference and school list
 
-- Maintained primarily by [Nick Collins-Craft](https://www.researchgate.net/profile/Nicholas-Collins-Craft).
-- Add anything you hear of to the list below by making a [pull request](https://github.com/scigem/conferences-and-schools/compare).
+- Maintained primarily by [Nick Collins-Craft](https://github.com/nickcollins-craft).
+- Add anything you hear of to the list below by making a [forking and making a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 - [Also see here for UTwente’s list](https://www2.msm.ctw.utwente.nl/msm_www/conferences/conferences.html)
 
 # 2022
