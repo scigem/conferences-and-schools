@@ -1,7 +1,7 @@
 # conferences-and-schools
 List of conferences and PhD schools relevant to members of SciGEM
 
-Nicely rendered version [here](https://scigem.github.io/conferences-and-schools/main)
+Nicely rendered version [here](https://scigem.github.io/conferences-and-schools/)
 
 ## Maintained by:
   - [Nick Collins-Craft](https://github.com/nickcollins-craft)
