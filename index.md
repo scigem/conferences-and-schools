@@ -59,10 +59,10 @@
 | [Coupled Problems 2023](https://www.cimne.com/vnews/2/11483/coupled-problems-2023) | Chania, Greece        | 5 - 7 June                     | 10th International Conference on Computational Methods for Coupled Problems in Science and Engineering    |
 | [JTC1 Workshop](https://jtc1-2023.com/)                                            | Oslo, Norway          | 7 - 10 June                    | 3rd JTC1 Workshop on impact of global changes on landslide hazard and risk                                |
 | [ANZ2023](https://anzgeo2023.com.au/)                                              | Cairns, Australia     | 2 - 5 July                     | Australia and New Zealand Conference on Geomechanics                                                      |
+| [ICBMH2023](https://www.icbmh2023.com.au/)                                         | Wollongong, Australia | 11-13 July                | 14th International Conference on Bulk Materials Storage, Handling and Transportation                      |
 | DEM9                                                                               | Charlotte, USA        | July?                          |                                                                                                           |
 | [IS Porto 2023](https://web.fe.up.pt/~is-porto2023/)                               | Porto, Portugal.      | 3 - 6 September                | 8th International Symposium on Deformation Characteristics of Geomaterials |
 | [COMPLAS 2023](https://www.cimne.com/vnews/2/11487/complas-2023)                   | Barcelona, Spain      | 5 - 7th September              | 17th COMPLAS conference                                                                                   |
-| [ICBMH2023](https://www.icbmh2023.com.au/)                                         | Wollongong, Australia | 25-28 September                | 14th International Conference on Bulk Materials Storage, Handling and Transportation                      |
 | ALERT Geomaterials                                                                 | Aussois, France       | Late September - Early October |                                                                                                           |
 | [Particles 2023](https://www.cimne.com/vnews/2/11490/particles-2023)               | Milan, Italy          | October                        | 8th Conference on Particle-Based Methods                                                                  |
 | [ISRM Congress 2023](https://www.isrm2023.com/en/#isrm2023)                        | Salzburg, Austria     | 9 - 14 October                 | 15th international ISRM Congress & Geomechanics Colloquium 2023                                           |
@@ -144,6 +144,3 @@
 | [AGS Symposium](https://australiangeomechanics.org/meetings/2019-sydney-symposium/)                     | Sydney, Australia       | 15 November              | 2019 Sydney Symposium: Innovations in Geotechnical Construction and Design              |
 | [Rayons X et Matière](http://www.rayonsxetmatiere.org/)                                                 | Nancy, France           | 19-22 November           | 13th Colloquium on X-Rays and Material (in French, but English allowed)                 |
 | [AGU Fall Meeting](https://www2.agu.org/fall-meeting)                                                   | San Francisco, USA      | 9-13 December            | American Geophysical Union Fall Meeting                                                 |
-
-
-
