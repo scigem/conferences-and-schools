@@ -56,6 +56,7 @@
 | ---------------------------------------------------------------------------------- | --------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | [Tec21 Winter School](https://www.tec21.fr/winter-school-2023/#2)                  | Grenoble, France      | 30 January - 3 February        | 6th Tec21 Winter school on Multi scale approaches and multiphysics couplings in fluid and solid mechanics |
 | EGU General Assembly                                                               | Vienna, Austria       | 23 - 28 April                  | European Geosciences Union General Assembly                                                               |
+| [Numerical Analysis of Geomaterials](http://www.nange.info/)                       | Assisi, Italy       | 10 - 12 May                  | Symposium dedicated to the memory of Prof. G.N. Pande                                                               |
 | [Coupled Problems 2023](https://www.cimne.com/vnews/2/11483/coupled-problems-2023) | Chania, Greece        | 5 - 7 June                     | 10th International Conference on Computational Methods for Coupled Problems in Science and Engineering    |
 | [JTC1 Workshop](https://jtc1-2023.com/)                                            | Oslo, Norway          | 7 - 10 June                    | 3rd JTC1 Workshop on impact of global changes on landslide hazard and risk                                |
 | [ANZ2023](https://anzgeo2023.com.au/)                                              | Cairns, Australia     | 2 - 5 July                     | Australia and New Zealand Conference on Geomechanics                                                      |
@@ -75,7 +76,9 @@
 | --------------------------------------------- | ------------------ | ------------------------------ | ------------------------------------------- |
 | EGU General Assembly                          | Vienna, Austria    | 14 - 19 April                  | European Geosciences Union General Assembly |
 | [ConCreep12](https://www.eventilo.com/129439) | Delft, Netherlands | 5 - 7 June                     | 12th ConCreep conference                    |
+| [ICTMS-2024](https://www.tomography2024.com/) | Stellenbosch, South Africa | 1 - 5 July             | International Conference on Tomography of Materials and Structures   |
 | ALERT Geomaterials                            | Aussois, France    | Late September - Early October |                                             |
+| DRAGON                                        | Sydney, Australia    | ?? | ??                                             |
 | AGU Fall Meeting                              | San Francisco, USA | Mid December                   | American Geophysical Union Fall Meeting     |
 
 # Past years
@@ -83,7 +86,6 @@
 
 | **Title**                                                         | **Location**            | **Date**         | **Info**                                                         |
 | ----------------------------------------------------------------- | ----------------------- | ---------------- | ---------------------------------------------------------------- |
-| PIG 2.0                                                           | Sydney, Australia       | ?                | Anyone volunteering to organise it?                              |
 | EGU 2021                                                          | Vienna, Austria         | 25 - 30 April    |                                                                  |
 | ALERT Workshop                                                    | Aussois, France         | Early October    |                                                                  |
 | Powders and Grains                                                | Buenos Aires, Argentina | 5 - 9 July       | Still in person as things stand, final decision in November 2020 |
