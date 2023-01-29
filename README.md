@@ -1,3 +1,7 @@
+# DEPRECATION
+
+This page has been moved [here](https://scigem-eng.sydney.edu.au/conference-and-school-list/).
+
 # conferences-and-schools
 List of conferences and PhD schools relevant to members of SciGEM
 
